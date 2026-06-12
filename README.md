@@ -112,4 +112,4 @@ This project is open source and available under the [MIT License](LICENSE).
 Anitha
 
 **Your Name**  
-[GitHub](https://github.com/your-username) · [LinkedIn](https://linkedin.com/in/your-profile)
+[GitHub](https://github.com/anithas) · [LinkedIn](https://www.linkedin.com/in/anitha-s-442072318)
