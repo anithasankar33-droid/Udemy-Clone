@@ -62,7 +62,7 @@ udemy-clone/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/udemy-clone.git
+   git clone https://github.com/anithasankar33-droid/udemy-clone.git
    ```
 
 2. **Navigate into the project folder**
