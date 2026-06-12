@@ -109,6 +109,7 @@ This project is open source and available under the [MIT License](LICENSE).
 ---
 
 ## 🙋‍♂️ Author
+Anitha
 
 **Your Name**  
 [GitHub](https://github.com/your-username) · [LinkedIn](https://linkedin.com/in/your-profile)
